@@ -1,7 +1,5 @@
 # WMS Scraper Gradio App
 
-![Gradio Interface Preview](./figures/layout.png)
-
 A user-friendly web interface for downloading geospatial tiles from WMS endpoints.
 
 ## Features
@@ -25,3 +23,5 @@ pip install -r requirements.txt
 
 The reason why this was made is that I couldn't find a good way of scraping wms endpoints.
 I needed satelite images of the whole moon when I was working on my Master's thesis which was connected to moon based image retrieval task.
+
+![Gradio Interface Preview](./figures/layout.png)
