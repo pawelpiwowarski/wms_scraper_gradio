@@ -12,7 +12,7 @@ A user-friendly web interface for downloading geospatial tiles from WMS endpoint
 
 ## Installation
 
-1. Install requirements:
+Install requirements:
 
 ```bash
 pip install -r requirements.txt
