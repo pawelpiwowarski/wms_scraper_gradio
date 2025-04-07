@@ -12,11 +12,18 @@ A user-friendly web interface for downloading geospatial tiles from WMS endpoint
 
 ## Installation
 
-1. Clone/Paste the code into `app.py`
-2. Install requirements:
+1. Install requirements:
 
 ```bash
 pip install -r requirements.txt
+```
+
+## How to run?
+
+After installing requirements simply type
+
+```bash
+python app.py
 ```
 
 ## Why was this made?
